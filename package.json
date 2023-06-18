@@ -1,7 +1,7 @@
 {
-  "name": "nft-market",
+  "name": "Freebee",
   "version": "1.0.0",
-  "description": "NFT Market",
+  "description": "Freebe",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
